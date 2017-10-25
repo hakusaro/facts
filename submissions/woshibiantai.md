@@ -4,7 +4,10 @@
 ----
 
 * @Hercules is a hero of ancient Greek mythology.
+* @Hercules is his Roman name. His name in Greek is Heracles
 * @Hercules was teh son of Zeus and Alcmenea.
 * @Herculues became an immortal when he was nursed by Zeus' wife, Hera.
 * When Hera found our @Hercules was not her son, she was jealous with rage.
 * Hera sent @Hercules a curse of madness that led him to kill his wife and children.
+* In order to pay for his crimes @Hercules had to serve Eurystheus, the king of Tiryns and Mycenae, for twelve years.
+* 
