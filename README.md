@@ -12,7 +12,7 @@ If you want to participate in this project, I would like your consent to use the
 
 ## What is a fact?
 
-Well, it's not really a fact, exactly. "Fact" is just an analogy. It's more of a sentence or a sentence fragment that conveys a specific piece of information. Below are some examples:
+Well, It's not really a fact, exactly. "Fact" is just an analogy. It's more of a sentence or a sentence fragment that conveys a specific piece of information. Below are some examples:
 
 * @Cats have 9 lives.
 * @Sarah was born on October 22, 2022.
@@ -53,7 +53,7 @@ Second subject:
 
 ## What if a fact references multiple subjects?
 
-The primary subject should be what it's about. That should be prefixed with the ```@``` symbol. For example, in this fact, you can identify two subjects:
+The primary subject should be what It's about. That should be prefixed with the ```@``` symbol. For example, in this fact, you can identify two subjects:
 
 * @Sword Art Online is a light novel series written by Reki Kawahara.
 
