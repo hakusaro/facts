@@ -8,3 +8,11 @@
 * @Havanese are small in size and are generally no heavier than 15 lbs.
 * @Havanese have a soft double coat.
 * @Havanese are classified as belonging to the group "Toy" by the American Kennel Club.
+
+Walt Disney:
+
+* Walt @Disney was born in 1901.
+* @Disney died in 1966 in Burbank California.
+* @Disney was a Democrat when he was young, but became a Republican later in life.
+* @Disney originally wanted Mickey Mouse to be called Mortimer Mouse.
+* @Disney started the Disney Brothers Studio with his brother Roy.
