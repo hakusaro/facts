@@ -22,7 +22,7 @@ Well, it's not really a fact, exactly. "Fact" is just an analogy. It's more of a
 * @君の名は was directed by Makoto Shinkai.
 * @Ash is a big fan of Takis.
 * @Nicole saw her first meteor on October 12, 2038.
-
+* Gorillas have two middle fingers on each hand.  
 Note that facts aren't required to be true in the most empirical sense. They're supposed to be meaningful to you (thus being informative) and about a subject. They might be meaningless to everyone else, but the best facts are typically things only you can know, but might easily be forgotten. These can be things like people's favorite meals, flower preferences, or other trivial details about life.
 
 ## How do I submit these?
