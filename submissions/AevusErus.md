@@ -9,6 +9,8 @@
 * @"Stranger Things" has a monster as the main antagonist.
 * @"Stranger Things" aired on July 15th, 2016.
 
+ @"Stranger Things" aired on July 15th, 2016.
+
 World of Warcraft:
   * Is an MMORPG
   * Currently has 6 expansions
